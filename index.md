@@ -1,12 +1,28 @@
-## Welcome to GitHub Pages
+## 今日の記録
 
-You can use the [editor on GitHub](https://github.com/h020nnj/TodaysLog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+２０１９.１１.０２
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+プログラミング初心者の私が同人誌を見ながらGitHub Pagesで作ってみたよ。
 
-### Markdown
+つまづいた点とか、記録に残しておくよ〜
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### スタート
+
+AM０９：３０
+
+まずは環境構築から。
+
+同人誌ではコマンドラインからGitHubが使えることを前提にしてあったので、[こちら](https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000)を参考にGitHubが使えるように設定したよ〜
+
+上から順にコピペ乱舞で設定をしていくのだけど、超初心者の私がつまづいたのは
+**$はコピペしない**
+ということ。
+
+初歩の初歩すぎて、
+_注意書きとかも書いていない。。。_
+
+私レベルの初心者さんはご注意を！
+
 
 ```markdown
 Syntax highlighted code block
